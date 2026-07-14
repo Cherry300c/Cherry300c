@@ -1,11 +1,12 @@
-
-
-
-
-  <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=1100&lines=Hi,+I'm+Devatade+Bhanu+Charan;Computer+Science+Engineering+Student;Passionate+about+Artificial+Intelligence;Exploring+Machine+Learning+%26+Cybersecurity;Building+Practical+Software+Solutions;Learning+New+Technologies+Every+Day;Learning.+Building.+Improving.;One+Project+at+a+Time." />
+<!-- Blue -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Devatade+Bhanu+Charan" />
 </h1>
 
+<!-- Green -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Computer+Science+Engineering+Student;Passionate+about+Artificial+Intelligence;Exploring+Machine+Learning+%26+Cybersecurity;Building+Practical+Software+Solutions;Learning+New+Technologies+Every+Day;Learning.+Building.+Improving.;One+Project+at+a+Time." />
+</p>
 # 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
