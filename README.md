@@ -1,9 +1,4 @@
-<!-- =========================== HACKER BANNER =========================== -->
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Devatade+Bhanu+Charan;Computer+Science+Engineering+Student;Passionate+about+Artificial+Intelligence;Exploring+Machine+Learning+%26+Cybersecurity;Building+Practical+Software+Solutions;Learning+New+Technologies+Every+Day;Learning.+Building.+Improving.;One+Project+at+a+Time." />
-</p>
 
----
 
 
 
