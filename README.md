@@ -16,18 +16,12 @@
 - 🚀 Always excited to learn new technologies and solve real-world problems
 - 🎯 Goal: Build intelligent, secure, and impactful software
 
-# ⚡ Workflow Badge
-<p align="center">
-
-![Snake Workflow](https://github.com/Cherry300c/cherry300c/actions/workflows/snake.yml/badge.svg)
-
-</p>
 
 
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech skills
 
 <p align="center">
 
