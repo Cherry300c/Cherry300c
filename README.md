@@ -1,8 +1,8 @@
 <!-- =========================== HACKER BANNER =========================== -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+I'm+Bhanu+Charan;AI+Enthusiast;Cybersecurity+Learner;Machine+Learning+Explorer;Always+Learning+Something+New" />
+</p>
 
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=ACCESS+GRANTED;WELCOME+TO+MY+GITHUB;SYSTEM+ONLINE" />
-</h1>
 
 <h3 align="center">
 AI Enthusiast • Cybersecurity Learner • Machine Learning Explorer
@@ -12,10 +12,9 @@ AI Enthusiast • Cybersecurity Learner • Machine Learning Explorer
 
 # ⌨️ Typing Animation
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+I'm+Bhanu+Charan;AI+Enthusiast;Cybersecurity+Learner;Machine+Learning+Explorer;Always+Learning+Something+New" />
-</p>
-
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=ACCESS+GRANTED;WELCOME+TO+MY+GITHUB;SYSTEM+ONLINE" />
+</h1>
 ---
 
 # 👨‍💻 About Me
